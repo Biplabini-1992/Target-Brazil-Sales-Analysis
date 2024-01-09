@@ -2,8 +2,11 @@
 
 ## Introduction:
 	Target is a globally renowned brand and a generalised merchandise retailer & headquartered in Minneapolis, Minnesota. It is the 7th largest retailer in U.S.
+
 	This brand has a wide variety of food & general merchandise from clothing to household goods to electronics and toys.
+
 	Target offers both online & in-store shopping.
+
 	The particular business case focuses on the operations of Target in Brazil and provides insightful information about 1,00,000 orders placed between 2016 and 2018.
 
 ## Problem Statement:
