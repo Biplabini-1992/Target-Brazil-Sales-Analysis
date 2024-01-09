@@ -26,9 +26,9 @@ Assuming you are a data analyst/ scientist at Target, you have been assigned the
 7.	orders.csv
 8.	products.csv
  
-The column description for these CSV files is given below:
+## The column description for these CSV files is given below:
 
-The customers.csv contain following features:
+### The customers.csv contain following features:
 	customer_id: Id of the consumer who made the purchase.
 
 	customer_unique_id: Unique Id of the consumer.
@@ -39,7 +39,7 @@ The customers.csv contain following features:
 
 	customer_state: State Code from where order is made (Ex- Sao paulo-SP).
 
-The sellers.csv contains following features:
+### The sellers.csv contains following features:
 	seller_id: Unique Id of the seller registered.
 
 	seller_zip_code_prefix: Zip Code of the location of the seller.
@@ -48,7 +48,7 @@ The sellers.csv contains following features:
 
 	seller_state: State Code (Ex- Sao paulo-SP).
  
-The order_items.csv contain following features:
+### The order_items.csv contain following features:
 	order_id: A unique id of order made by the consumers.
 
 	order_item_id: A Unique id given to each item ordered in the order.
@@ -63,7 +63,7 @@ The order_items.csv contain following features:
 
 	freight_value: Price rate at which a product is delivered from one point to another.
 
-The geolocations.csv contain following features:
+### The geolocations.csv contain following features:
 	geolocation_zip_code_prefix: first 5 digits of zip code
 
 	geolocation_lat: latitude
@@ -74,7 +74,7 @@ The geolocations.csv contain following features:
 
 	geolocation_state: state
  
-The payments.csv contain following features:
+### The payments.csv contain following features:
 	order_id: A unique id of order made by the consumers.
 
 	payment_sequential: sequences of the payments made in case of EMI.
@@ -85,7 +85,7 @@ The payments.csv contain following features:
 
 	payment_value: Total amount paid for the purchase order.
 
-The orders.csv contain following features:
+### The orders.csv contain following features:
 	order_id: A unique id of order made by the consumers.
 
 	customer_id: Id of the consumer who made the purchase.
@@ -100,7 +100,7 @@ The orders.csv contain following features:
 
 	order_estimated_delivery_date: estimated delivery date of the products.
  
-The reviews.csv contain following features:
+### The reviews.csv contain following features:
 	review_id: Id of the review given on the product ordered by the order id.
 
 	order_id: A unique id of order made by the consumers.
@@ -115,7 +115,7 @@ The reviews.csv contain following features:
 
 	review_answer_timestamp: Timestamp of the review answered.
 
-The products.csv contain following features:
+### The products.csv contain following features:
 	product_id: A unique identifier for the proposed project.
 
 	product_category_name: Name of the product category.
