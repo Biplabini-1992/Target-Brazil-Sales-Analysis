@@ -52,73 +52,73 @@ formula:
 2.	Find the no. of orders placed on the basis of the payment installments that have been paid.
 
 
-## Insights:
-	We have 99441 customers in our dataset.
-	We have 96096 number of Unique Customers ids.
-	Customers belong to 14994 different locations.
-
-	Customers are from different 4119 cities and 27 states from Brazil.
-
-	There are 8011 cities and 27 states in our dataset.
-
-	Total sellers are 3095, who are from 611 different cities and 23 states in Brazil and from 2246 different locations as per zip-code.
-
-	Time range for which the data is given is 25 months i.e., from 2016 to 2018.
-
-	compare to 2017, revenue has increased in 2018 by 20%.
-
-	Average number of orders are higher during November, average orders are comparatively low in September and October month. May, July and August have higher average orders compare to other months.
-
-	Monday, Tuesday and Wednesdays have comparatively higher number of orders.
-
-	Most of the customers prefer to order during afternoon followed by night .
-
-	The orders are low from 12am. To 6 am.
-
-	we can observe the trend of increasing orders with time and also for revenue.
-
-	The number of orders has been increased by 136% from 2016 to 2017 and by 20% from 2017 to 2018.
-
-	The revenue has been increased by 123% from 2016 to 2017 and by 20% from 2017 to 2018.
-
-	The growth rate for November is highest!
-
-	The growth rate for July and August in 2017 and 2018 is comparatively very low!
-
-	In the month of May, July, August the average number of orders are also high compared to other months.
-
-	There is an increase in the cost of orders in Feb, Mar of 2017 and Jan of 2018 during the months from January and August.
-
-	There are 32951 different products and 73 different product categories.
-
-	PCs , HOUSE PASTALS OVEN AND CAFÉ, Argo industry and ELECTRICS 2 are having highest average product price categories.
-
-	The bed table bath, HEALTH BEAUTY, sport leisure, computer accessories, Furniture Decoration, housewares are the top
-selling product categories. 
-
-	The orders and revenues are high in the state SP(Sao Paulo) , RJ(Rio De Janeiro) and MG(Minas Gerais) compared to other states.
-
-	The states RR, PB, RO, AC, PI are having highest average freight values. And these states also produce low revenues.
-
-	The states SP, PR, MG, RJ, DF are having lowest average freight values. And these states also produce higher revenues.
-
-	The states RR, AP, AM, AL, PA are having highest delivery time. And these states also produce lower revenues.
-
-	The states SP, PR, MG, DF, SC are having lower average delivery time. And these states also produce higher revenues.
-
-	The average delivery time and freight value are directly proportional to each other.
-
-	Highest payment have been done through credit card and then UPI.
-
-
-## Recommendations:
-	Though there is an increasing trend in the orders and revenue over the time period, but to increase the sales during low
-selling months like Jan, Apr, June, Sept and Oct, company can provide some kind of discounts .
-
-	The average delivery time should be reduced to increase the number of orders .
-
-	The delivery time can be reduced by reducing the approval time .
-
-	The north and northeast region of Brazil have high freight value and high delivery time. It should be reduced.
-
-	Adding more products in the top selling categories can increase the revenue .
+ ## Insights:
+ 	We have 99441 customers in our dataset.
+ 	We have 96096 number of Unique Customers ids.
+ 	Customers belong to 14994 different locations.
+ 
+ 	Customers are from different 4119 cities and 27 states from Brazil.
+ 
+ 	There are 8011 cities and 27 states in our dataset.
+ 
+ 	Total sellers are 3095, who are from 611 different cities and 23 states in Brazil and from 2246 different locations as per zip-code.
+ 
+ 	Time range for which the data is given is 25 months i.e., from 2016 to 2018.
+ 
+ 	compare to 2017, revenue has increased in 2018 by 20%.
+ 
+ 	Average number of orders are higher during November, average orders are comparatively low in September and October month. May, July and August have higher average orders compare to other months.
+ 
+ 	Monday, Tuesday and Wednesdays have comparatively higher number of orders.
+ 
+ 	Most of the customers prefer to order during afternoon followed by night .
+ 
+ 	The orders are low from 12am. To 6 am.
+ 
+ 	we can observe the trend of increasing orders with time and also for revenue.
+ 
+ 	The number of orders has been increased by 136% from 2016 to 2017 and by 20% from 2017 to 2018.
+ 
+ 	The revenue has been increased by 123% from 2016 to 2017 and by 20% from 2017 to 2018.
+ 
+ 	The growth rate for November is highest!
+ 
+ 	The growth rate for July and August in 2017 and 2018 is comparatively very low!
+ 
+ 	In the month of May, July, August the average number of orders are also high compared to other months.
+ 
+ 	There is an increase in the cost of orders in Feb, Mar of 2017 and Jan of 2018 during the months from January and August.
+ 
+ 	There are 32951 different products and 73 different product categories.
+ 
+ 	PCs , HOUSE PASTALS OVEN AND CAFÉ, Argo industry and ELECTRICS 2 are having highest average product price categories.
+ 
+ 	The bed table bath, HEALTH BEAUTY, sport leisure, computer accessories, Furniture Decoration, housewares are the top
+ selling product categories. 
+ 
+ 	The orders and revenues are high in the state SP(Sao Paulo) , RJ(Rio De Janeiro) and MG(Minas Gerais) compared to other states.
+ 
+ 	The states RR, PB, RO, AC, PI are having highest average freight values. And these states also produce low revenues.
+ 
+ 	The states SP, PR, MG, RJ, DF are having lowest average freight values. And these states also produce higher revenues.
+ 
+ 	The states RR, AP, AM, AL, PA are having highest delivery time. And these states also produce lower revenues.
+ 
+ 	The states SP, PR, MG, DF, SC are having lower average delivery time. And these states also produce higher revenues.
+ 
+ 	The average delivery time and freight value are directly proportional to each other.
+ 
+ 	Highest payment have been done through credit card and then UPI.
+ 
+ 
+ ## Recommendations:
+ 	Though there is an increasing trend in the orders and revenue over the time period, but to increase the sales during low
+ selling months like Jan, Apr, June, Sept and Oct, company can provide some kind of discounts .
+ 
+ 	The average delivery time should be reduced to increase the number of orders .
+ 
+ 	The delivery time can be reduced by reducing the approval time .
+ 
+ 	The north and northeast region of Brazil have high freight value and high delivery time. It should be reduced.
+ 
+ 	Adding more products in the top selling categories can increase the revenue .
