@@ -1,16 +1,16 @@
 # TARGET-BRAZIL-SALES-ANALYSIS
 
-Introduction:
+## Introduction:
 	Target is a globally renowned brand and a generalised merchandise retailer & headquartered in Minneapolis, Minnesota. It is the 7th largest retailer in U.S.
 	This brand has a wide variety of food & general merchandise from clothing to household goods to electronics and toys.
 	Target offers both online & in-store shopping.
 	The particular business case focuses on the operations of Target in Brazil and provides insightful information about 1,00,000 orders placed between 2016 and 2018.
 
-Problem Statement:
+## Problem Statement:
 Assuming you are a data analyst/ scientist at Target, you have been assigned the task of analyzing the given dataset to extract valuable insights and provide actionable recommendations.
 
 
-Key Highlights:
+## Key Highlights:
 	Import the dataset and do usual exploratory analysis steps like checking the structure & characteristics of the dataset:
 1.	Data type of all columns in the "customers" table.
 2.	Get the time range between which the orders were placed.
@@ -52,7 +52,7 @@ formula:
 2.	Find the no. of orders placed on the basis of the payment installments that have been paid.
 
 
-Insights:
+## Insights:
 	We have 99441 customers in our dataset.
 	We have 96096 number of Unique Customers ids.
 	Customers belong to 14994 different locations.
@@ -87,10 +87,14 @@ selling product categories.
 	Highest payment have been done through credit card and then UPI.
 
 
-Recommendations:
+## Recommendations:
 	Though there is an increasing trend in the orders and revenue over the time period, but to increase the sales during low
 selling months like Jan, Apr, June, Sept and Oct, company can provide some kind of discounts .
+
 	The average delivery time should be reduced to increase the number of orders .
+
 	The delivery time can be reduced by reducing the approval time .
+
 	The north and northeast region of Brazil have high freight value and high delivery time. It should be reduced.
+
 	Adding more products in the top selling categories can increase the revenue .
