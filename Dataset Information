@@ -1,9 +1,11 @@
-DATASET INFORMATION:
+# DATASET INFORMATION:
 The dataset has information about the order_status, price, payment and freight performance, customer location, product attributes and customer reviews. 
-Dataset Link: https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb
 The data is available in 8 csv files:
 1. customers.csv
 2. sellers.csv
 3. order_items.csv
-4. geolocation.csv	5. payments.csv	6. reviews.csv	7. orders.csv
-	8.products.csv
+4. geolocation.csv
+5. payments.csv
+6. reviews.csv
+7. orders.csv
+8.products.csv
