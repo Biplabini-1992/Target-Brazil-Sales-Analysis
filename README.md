@@ -153,13 +153,9 @@ Assuming you are a data analyst/ scientist at Target, you have been assigned the
  1.	Get the month-on-month no. of orders placed in each state.
  2.	How are the customers distributed across all the states?
 	Impact on Economy: Analyze the money movement by e-commerce by looking at order prices, freight and others.
- 1.	Get the % increase in the cost of orders from year 2017 to 2018 (include months between Jan to Aug
- only).
- You can use the "payment_value" column in the payments table to get the cost of orders.
+ 1.	Get the % increase in the cost of orders during the months between Jan to Aug from year 2017 to 2018.
  2.	Calculate the Total & Average value of order price for each state.
  3.	Calculate the Total & Average value of order freight for each state.
-
- 
 
 	Analysis based on sales, freight and delivery time.
  1.	Find the no. of days taken to deliver each order from the order’s purchase date as delivery time. Also, calculate the difference (in days) between   the estimated & actual delivery date of an order. Do this in a single query.
